@@ -1,0 +1,24 @@
+div{
+height: 50em;
+width: 100em;
+background-color:#024B64 ;
+color:#024B64;
+margin: 0 auto;
+}
+nav{
+height: 42em;
+width: 10%;
+background-color: #EEBD59;
+float: left;
+margin-top: 5em
+;
+color:#EEBD59 ;
+}
+main{
+    height: 42em;
+    width:90% ;
+    background-color:#B1CF98 ;
+    float: right;
+    margin-top: 5em;
+    color:#B1CF98
+}
