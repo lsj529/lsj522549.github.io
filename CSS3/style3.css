@@ -1,0 +1,14 @@
+nav{
+height: 50em;
+width: 90em;
+background-color: #E1F9E8;
+color:#E1F9E8 ;
+margin: 0 auto;
+}
+div{
+height: 50em;
+width: 300px;
+background-color: #C2D7F2;
+color: #C2D7F2;
+float: left;
+}
