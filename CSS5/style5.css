@@ -1,0 +1,28 @@
+header{
+height: 10em;
+width: 100%;
+background-color: #6ACDBC;
+float: left;
+margin-top: 10em;
+}
+main{
+    height: 25em;
+    width: 30em;
+    background-color: #41AD99;
+  position: absolute;left: 35em;
+    float: right;
+}
+nav{
+    height: 25em;
+    width: 100em;
+    background-color: #FF9645;
+    float: left;
+    position: relative;
+}
+div{
+height: 50em;
+width: 100em;
+background-color: #3C55D1;
+margin: 0 auto;
+}
+
