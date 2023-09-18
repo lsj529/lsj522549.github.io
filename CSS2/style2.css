@@ -1,0 +1,19 @@
+
+.bg1{
+    height: 50em;
+    width: 100em;
+    background-color: #FED7DB;
+    color:#FED7DB ;
+    margin: 0 auto;
+}
+.block{
+    height: 40em;
+    width: 100%;
+background-color:#ACBEEA;
+color:#ACBEEA ;
+margin-top: 100px;
+float: left;
+}
+
+
+
